@@ -6,7 +6,7 @@ import 'package:newsapppro/helper/news.dart';
 import 'package:newsapppro/models/article_model.dart';
 import 'package:newsapppro/models/category_model.dart';
 import 'package:newsapppro/views/article_view.dart';
-import 'package:newsapppro/views/categorie_news.dart';
+import 'package:newsapppro/views/categories_news.dart';
 
 class HomePage extends StatefulWidget {
   @override
